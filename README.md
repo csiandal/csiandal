@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hello!
+I'm a GO Typescript programmer. I prepare custom scripts, mostly in WEB3. Ready to cooperate.
+- 💬 Ask me about kimbelmas860@gmail.com
+```
+Hello GitHub World!
+```
 <!--
 **csiandal/csiandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
